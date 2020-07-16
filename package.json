@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-	"start": "parcel ./index.html --out-dir docs/",
+	"start": "parcel ./index.html --public-url /hebrewTransliterate --out-dir docs/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "James Cuénod",
