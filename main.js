@@ -1,3 +1,5 @@
+location.href = "https://jcuenod.github.io/hebrewTools"
+
 const ht = require("hebrew-transliteration")
 const transliterate = ht.transliterate
 
